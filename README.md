@@ -16,4 +16,5 @@ Points to note:
 
 3. right click on docker-compose.yml file and click on compose up
 
-image.png
+![image](https://user-images.githubusercontent.com/100859090/182044100-f32d0167-9a22-46d9-b938-5a157057288e.png)
+
