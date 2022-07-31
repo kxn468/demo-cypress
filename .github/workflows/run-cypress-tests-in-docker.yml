@@ -4,9 +4,8 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Run cypress tests inside docker
-        run: docker-compose up -d
+      - name: Checkout repository
+        uses: actions/checkout@v3
         
       - name: Integration Test
         uses: cypress-io/github-action@v4
