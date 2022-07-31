@@ -4,12 +4,13 @@ Points to note:
 
    git clone https://github.com/kxn468/demo-cypress.git
 
-2. Add cypress.json file in root directory
+2. Add cypress.json file in root directory , to work in local env
 
    cypress.json
    {
 
     "watchForFileChanges":false,
+    
     "video":false
 
    }
