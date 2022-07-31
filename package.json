@@ -1,0 +1,13 @@
+{
+  "name": "cypress-docker-integration",
+  "version": "1.0.0",
+  "description": "cypress-docker-integration with docker-compose.yml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
