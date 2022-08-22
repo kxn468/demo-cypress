@@ -12,3 +12,6 @@ jobs:
         with:
           working-directory: ./
         
+      - name: Automatic Rebase
+        uses: cirrus-actions/rebase@1.2
+
